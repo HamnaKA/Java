@@ -1,5 +1,4 @@
 package selfy;
-
 import java.util.Scanner;
 
 public class Pgm1 {
